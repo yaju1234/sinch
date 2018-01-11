@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_6d67197e442c3f82718f68fc380ffbe615a95ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_761911d350187bced349b7b3b4ab60fcf27ece52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/sdk_for_android_studio/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_581d9f7890262713b2bb351235d8239db31bbb0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_051c80b631cfb376299406ff64d55383302860b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_e3adc146d70129072f456f4f814f6b3c909858ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_2fd6fa11d975725645d09bba0140740b669a33b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/exploded-aar/sinch-rtc-sample-video/sinch-android-rtc-3.12.3/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="726054b6a6c86343d9b2c262e5a1dfbb0ced4b74">
+        <dex dex="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/sinch-rtc-sample-video-sinch-android-rtc-3.12.3-unspecified_d4273060f41673ec0e12389dbbadd36269443991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_bbd9e03e1dd8b8c6c41f96b1ae270dcbfcb147cb.jar" />
+    </item>
+
+</items>

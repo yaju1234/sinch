@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "/root/AndroidStudioProjects/sinch-rtc-sample-video/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/sinch-rtc-sample-video/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 43,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 45,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/sinch-rtc-sample-video/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 45,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 48,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/sinch-rtc-sample-video/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 48,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/sinch-rtc-sample-video/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/sinch-rtc-sample-video/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects/sinch-rtc-sample-video/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 676
+                    }
+                }
+            }
+        ]
+    }
+]
